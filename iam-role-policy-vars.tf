@@ -1,6 +1,6 @@
 variable "region" {
   description = "region where status check runs"
-  default = "us-east-1"
+  default = ""
 }
 
 variable "role_name" {
